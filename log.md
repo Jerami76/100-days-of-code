@@ -8,6 +8,27 @@
 
 **Link to work:** [Tribute Page Project 1](https://codepen.io/Jerami/pen/OrqadB),[Tribute Page Project 1.2](https://codepen.io/Jerami/pen/NoKGdN)
 
+
+### Day 6: January 21, 2019 
+
+**Today's Progress**: Continued work on my Tribute Project(take 2) for @freecodecamp. Project completed to fulfill requirements. I'm still having a bit of an issue with images exceeding the size of their containing div. Came up with a partial solution, which works to a certain size then gets off-centered when it gets too small. I'll fix that later tonight, then be done with the project and move on. Also did a bunch of exercises on W3Schools(HTML) and most were easy but, learned a bunch of things that were only skimmed on freeCodeCamp. So, I'll be doing exercises on both for a bit.
+
+**Thoughts:** Still want to get image sizes down before I move too far but, I feel like things are starting to click. I've also been trying to make sure to follow things of coding interest on Twitter. Also, reading at least one "article" and watching one video, per day, is becooming useful, as far as helping me to be immersed.
+
+
+**Link to work:** [Tribute Page Project 1.2](https://codepen.io/Jerami/pen/NoKGdN)
+
+### Day 7: January 22, 2019 
+
+**Today's Progress**: Completed my Tribute Page(final) Added a media query to change the font on small screens and fixed padding. Converted from fixed units to relative units. Started my Survey Form Challenge. Starting out with Grid for the layout. 
+**Thoughts:** I feel like responsiveness is clicking. I may be taking a bit more time than some people but, I want to really understand what I'm doing. Having it just work is not enough. I've been immersing myself more fully. I'm trying to watch and read tech content. Trying to keep active on Twitter. Also tightening my web security, since I should act like a Dev. Fake it until you make it!
+
+**Link to work:** [Tribute Page Project 1.2 FINAL(https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project START (https://codepen.io/Jerami/pen/exYexe)
+
+
+
  
 
 
