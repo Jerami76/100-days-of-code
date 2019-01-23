@@ -21,6 +21,7 @@
 ### Day 7: January 22, 2019 
 
 **Today's Progress**: Completed my Tribute Page(final) Added a media query to change the font on small screens and fixed padding. Converted from fixed units to relative units. Started my Survey Form Challenge. Starting out with Grid for the layout. 
+
 **Thoughts:** I feel like responsiveness is clicking. I may be taking a bit more time than some people but, I want to really understand what I'm doing. Having it just work is not enough. I've been immersing myself more fully. I'm trying to watch and read tech content. Trying to keep active on Twitter. Also tightening my web security, since I should act like a Dev. Fake it until you make it!
 
 **Link to work:** [Tribute Page Project 1.2 FINAL(https://codepen.io/Jerami/full/NoKGdN)
