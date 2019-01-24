@@ -30,6 +30,16 @@
 
 
 
+### Day 8: January 23, 2019 
+
+**Today's Progress**: Coded enough of my Survey Form(Challenge 2) an free code camp to pass all tests, in a little over an hour. Had top look up things that I had only studied and never used but, I learned a ton! I has NO CSS or styling yet. I wanted to make sure all the elements were in there fisrt. Next, I'm going to lay them out tomorrow eith Grid, I think, so I can get some experience with that. Then maybe a last day styling it. 3 more projects to go for the certification! I'd like to do them by the end of the week. Final drafts won't be possible but, I may be able to pass all tests and get them set up for styling, gaining my certificate and having templates that I can style at my leisure.
+**Thoughts:** Didn't code any responsiveness today but, took part in a few good coding discussions, watched a video on Grid, which I can't wait to use in the AM. Also, accessibility is apparently an issue for a lot of people. Got into an arguement I shouldn't have. I just need o let people be as wrong as they'd like and follow best practices myself.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL(https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED! (https://codepen.io/Jerami/pen/exYexe)
+
+
  
 
 
