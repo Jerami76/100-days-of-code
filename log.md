@@ -41,6 +41,19 @@
 **Link to work:** [Survey Form Project ALL TESTS PASSED! (https://codepen.io/Jerami/pen/exYexe)
 
 
+### Day 9: January 24, 2019 
+
+**Today's Progress**: Added Grid to my Survey Form Challenge to set up the layout. Added media query to change layout for mobile. Tested and working so far.
+
+**Thoughts:** Grid is really starting to click. My new workflow of adding elements, laying them out then styling, has been working so far.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL(https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! (https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! (https://codepen.io/Jerami/pen/jdbKQx)
+
+
  
 
 
