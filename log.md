@@ -54,6 +54,21 @@
 **Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! (https://codepen.io/Jerami/pen/jdbKQx)
 
 
+### Day 10: January 25, 2019 
+
+**Today's Progress**: Started a bit late, after midnight. But, once I started I began styling my Survey form. Since it's based opn Amazon Mechanical Turk,I'm trying to style it after Amazon's stylesheet. I'm happy so far. About halfway through styling. Taking a bit of a break then getting right back on it.
+
+**Thoughts:** I'm learning a lot by trying to emulate someone else's style without using their code, just their colors for reference, and their font.(Because searching to match a font is tedious and inefficient.) I'm annoyed with myself for letting life get in the way of my commitment to the challenge today. I've re-committed myself!
+
+**Link to work:** [Tribute Page Project 1.2 FINAL(https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! (https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! (https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! Style working (https://codepen.io/Jerami/pen/jdbKQx)
+
+
  
 
 
