@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
- ### Day 5: January 20, 2019 
+### Day 0-3: January 20, 2019 
+
+**Today's Progress**: Coded at least an hour a day each day. Worked on seting a template for Tribute project.
+
+**Thoughts:** Didn't know if I wanted to puplicly commit to #100DaysofCode. So, I did the work but didn't know how to use GitHub and figured that part may be too difficult. I later decided that if I'm going to do it, I should participate in all aspects. I'm backdating this from Day 11. But, I have been committed and going strong, as eveidenced by the rest of the log. Now back to coding and learning!
+**Link to work:** [Tribute Page Project 1](https://codepen.io/Jerami/pen/OrqadB),
+
+
+ ### Day 4: January 20, 2019 
 
 **Today's Progress**: Continued work on my Tribute Project for @freecodecamp. Then I decided to start again, now that I've practiced a bit.
 
@@ -9,7 +17,7 @@
 **Link to work:** [Tribute Page Project 1](https://codepen.io/Jerami/pen/OrqadB),[Tribute Page Project 1.2](https://codepen.io/Jerami/pen/NoKGdN)
 
 
-### Day 6: January 21, 2019 
+### Day 5: January 21, 2019 
 
 **Today's Progress**: Continued work on my Tribute Project(take 2) for @freecodecamp. Project completed to fulfill requirements. I'm still having a bit of an issue with images exceeding the size of their containing div. Came up with a partial solution, which works to a certain size then gets off-centered when it gets too small. I'll fix that later tonight, then be done with the project and move on. Also did a bunch of exercises on W3Schools(HTML) and most were easy but, learned a bunch of things that were only skimmed on freeCodeCamp. So, I'll be doing exercises on both for a bit.
 
@@ -18,7 +26,7 @@
 
 **Link to work:** [Tribute Page Project 1.2](https://codepen.io/Jerami/pen/NoKGdN)
 
-### Day 7: January 22, 2019 
+### Day 6: January 22, 2019 
 
 **Today's Progress**: Completed my Tribute Page(final) Added a media query to change the font on small screens and fixed padding. Converted from fixed units to relative units. Started my Survey Form Challenge. Starting out with Grid for the layout. 
 
@@ -30,7 +38,7 @@
 
 
 
-### Day 8: January 23, 2019 
+### Day 7: January 23, 2019 
 
 **Today's Progress**: Coded enough of my Survey Form(Challenge 2) an free code camp to pass all tests, in a little over an hour. Had top look up things that I had only studied and never used but, I learned a ton! I has NO CSS or styling yet. I wanted to make sure all the elements were in there fisrt. Next, I'm going to lay them out tomorrow eith Grid, I think, so I can get some experience with that. Then maybe a last day styling it. 3 more projects to go for the certification! I'd like to do them by the end of the week. Final drafts won't be possible but, I may be able to pass all tests and get them set up for styling, gaining my certificate and having templates that I can style at my leisure.
 
@@ -41,7 +49,7 @@
 **Link to work:** [Survey Form Project ALL TESTS PASSED! (https://codepen.io/Jerami/pen/exYexe)
 
 
-### Day 9: January 24, 2019 
+### Day 8: January 24, 2019 
 
 **Today's Progress**: Added Grid to my Survey Form Challenge to set up the layout. Added media query to change layout for mobile. Tested and working so far.
 
@@ -54,7 +62,7 @@
 **Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! (https://codepen.io/Jerami/pen/jdbKQx)
 
 
-### Day 10: January 25, 2019 
+### Day 9: January 25, 2019 
 
 **Today's Progress**: Started a bit late, after midnight. But, once I started I began styling my Survey form. Since it's based opn Amazon Mechanical Turk,I'm trying to style it after Amazon's stylesheet. I'm happy so far. About halfway through styling. Taking a bit of a break then getting right back on it.
 
@@ -69,7 +77,48 @@
 **Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! Style working (https://codepen.io/Jerami/pen/YBwvOz)
 
 
+### Day 10: January 26, 2019 
+
+**Today's Progress**: Played a few silly games to practice CSS Grid/Flex. Fixed some issues with the mobile version of my survey form. Added Amazon logo to show the relationship to color palette. Added more content. Fixed copyright issue by moving it to a different container. I feel it's completed and submitted but, I can continue to find more things I'd like to add and fix. So, I'm moving on and will update every few days, rather than focus on that, as I'm still learning. Added Notepad++ and set it up. Began using it. Installed Git, will need to learn more about it. Spent 20 hours today behind the pc. Not muchcompleted relative to the time but progress, none the less.
+
+**Thoughts:** I think I'm getting near the point where I have a pretty good grasp on CSS grid and will work on Flex more tomorrow. I need to complete KeePass set up. Also need to organize email. Things are piling up but, I need to keep making slow progress on all fronts while completing one task a day?(maybe?) Talked a lot about code today with anyone who would listen. Immersion was good but I also need to be mindful of all obligations.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL(https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! (https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! (https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! Style working (https://codepen.io/Jerami/pen/YBwvOz)
+
+
+### Day 11: January 27, 2019 
+
+**Today's Progress**: Spent a few more hours working on a few touch-ups to my form. Justified content while keeping titles separate. Much Better design. Started my next project(Product Landing Page). I think the form is very close to being completely complete. I know that now that I've got everything all set, I could use a Nav Bar and More links in the footer. Won't do the footer because I think I'll just do a footer template on current project and backfill it to the form later
+
+**Thoughts:** Posting this a bit early, for me, because I missed a day in the log. I don't want to forget again and I have put in an hour(4 actually. So, if I end up coding overnight, I've already logged. Also, forgot to start on Day 0.(Hold-over from being a non coder.) So, I've adjusted Day #'s accordingly.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL(https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! (https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! (https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! (https://codepen.io/Jerami/pen/YBwvOz)
+
+
+
  
+
+
+
+
+
+
+
+
+
+
 
 
 
