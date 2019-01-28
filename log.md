@@ -32,9 +32,9 @@
 
 **Thoughts:** I feel like responsiveness is clicking. I may be taking a bit more time than some people but, I want to really understand what I'm doing. Having it just work is not enough. I've been immersing myself more fully. I'm trying to watch and read tech content. Trying to keep active on Twitter. Also tightening my web security, since I should act like a Dev. Fake it until you make it!
 
-**Link to work:** [Tribute Page Project 1.2 FINAL(https://codepen.io/Jerami/full/NoKGdN)
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
-**Link to work:** [Survey Form Project START (https://codepen.io/Jerami/pen/exYexe)
+**Link to work:** [Survey Form Project START ](https://codepen.io/Jerami/pen/exYexe)
 
 
 
@@ -44,9 +44,9 @@
 
 **Thoughts:** Didn't code any responsiveness today but, took part in a few good coding discussions, watched a video on Grid, which I can't wait to use in the AM. Also, accessibility is apparently an issue for a lot of people. Got into an arguement I shouldn't have. I just need o let people be as wrong as they'd like and follow best practices myself.
 
-**Link to work:** [Tribute Page Project 1.2 FINAL(https://codepen.io/Jerami/full/NoKGdN)
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
-**Link to work:** [Survey Form Project ALL TESTS PASSED! (https://codepen.io/Jerami/pen/exYexe)
+**Link to work:** [Survey Form Project ALL TESTS PASSED! ](https://codepen.io/Jerami/pen/exYexe)
 
 
 ### Day 8: January 24, 2019 
@@ -55,11 +55,11 @@
 
 **Thoughts:** Grid is really starting to click. My new workflow of adding elements, laying them out then styling, has been working so far.
 
-**Link to work:** [Tribute Page Project 1.2 FINAL(https://codepen.io/Jerami/full/NoKGdN)
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
-**Link to work:** [Survey Form Project ALL TESTS PASSED-template! (https://codepen.io/Jerami/pen/exYexe)
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
 
-**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! (https://codepen.io/Jerami/pen/jdbKQx)
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
 
 
 ### Day 9: January 25, 2019 
@@ -68,13 +68,13 @@
 
 **Thoughts:** I'm learning a lot by trying to emulate someone else's style without using their code, just their colors for reference, and their font.(Because searching to match a font is tedious and inefficient.) I'm annoyed with myself for letting life get in the way of my commitment to the challenge today. I've re-committed myself!
 
-**Link to work:** [Tribute Page Project 1.2 FINAL(https://codepen.io/Jerami/full/NoKGdN)
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
-**Link to work:** [Survey Form Project ALL TESTS PASSED-template! (https://codepen.io/Jerami/pen/exYexe)
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
 
-**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! (https://codepen.io/Jerami/pen/jdbKQx)
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
 
-**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! Style working (https://codepen.io/Jerami/pen/YBwvOz)
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! Style working ](https://codepen.io/Jerami/pen/YBwvOz)
 
 
 ### Day 10: January 26, 2019 
@@ -83,13 +83,13 @@
 
 **Thoughts:** I think I'm getting near the point where I have a pretty good grasp on CSS grid and will work on Flex more tomorrow. I need to complete KeePass set up. Also need to organize email. Things are piling up but, I need to keep making slow progress on all fronts while completing one task a day?(maybe?) Talked a lot about code today with anyone who would listen. Immersion was good but I also need to be mindful of all obligations.
 
-**Link to work:** [Tribute Page Project 1.2 FINAL(https://codepen.io/Jerami/full/NoKGdN)
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
-**Link to work:** [Survey Form Project ALL TESTS PASSED-template! (https://codepen.io/Jerami/pen/exYexe)
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
 
-**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! (https://codepen.io/Jerami/pen/jdbKQx)
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
 
-**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! Style working (https://codepen.io/Jerami/pen/YBwvOz)
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! Style working ](https://codepen.io/Jerami/pen/YBwvOz)
 
 
 ### Day 11: January 27, 2019 
@@ -98,13 +98,31 @@
 
 **Thoughts:** Posting this a bit early, for me, because I missed a day in the log. I don't want to forget again and I have put in an hour(4 actually. So, if I end up coding overnight, I've already logged. Also, forgot to start on Day 0.(Hold-over from being a non coder.) So, I've adjusted Day #'s accordingly.
 
-**Link to work:** [Tribute Page Project 1.2 FINAL(https://codepen.io/Jerami/full/NoKGdN)
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
-**Link to work:** [Survey Form Project ALL TESTS PASSED-template! (https://codepen.io/Jerami/pen/exYexe)
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
 
-**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! (https://codepen.io/Jerami/pen/jdbKQx)
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
 
-**Link to work:** [Survey Form Project COMPLETE! (https://codepen.io/Jerami/pen/YBwvOz)
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+
+### Day 12: January 28, 2019 
+
+**Today's Progress**: Wrote a grid template for no reason but, practiced grid a ton. Wanted to have it down and now, on to flexbox.
+May be more progress later.
+
+**Thoughts:** Another long overnigth of coding. I think flexbox is going to be easier. I'm starting to get the syntax down. I took a day off from freeCodeCamp challenges but, I feel I learned a ton more by stopping for a day. I'm going to take a little break, then the rest of the day I'm going to go back to FCC and learn a little, then work that challenge. Product landing page, here I Come. Tome to get some Flex in!
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv)
 
 
 
