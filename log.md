@@ -112,7 +112,7 @@
 **Today's Progress**: Wrote a grid template for no reason but, practiced grid a ton. Wanted to have it down and now, on to flexbox.
 May be more progress later.
 
-**Thoughts:** Another long overnigth of coding. I think flexbox is going to be easier. I'm starting to get the syntax down. I took a day off from freeCodeCamp challenges but, I feel I learned a ton more by stopping for a day. I'm going to take a little break, then the rest of the day I'm going to go back to FCC and learn a little, then work that challenge. Product landing page, here I Come. Tome to get some Flex in!
+**Thoughts:** Another long overnight of coding. I think flexbox is going to be easier. I'm starting to get the syntax down. I took a day off from freeCodeCamp challenges but, I feel I learned a ton more by stopping for a day. I'm going to take a little break, then the rest of the day I'm going to go back to FCC and learn a little, then work that challenge. Product landing page, here I Come. Tome to get some Flex in!
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
@@ -125,6 +125,59 @@ May be more progress later.
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv)
 
 
+### Day 13: January 29, 2019 
+
+**Today's Progress**: Worked on my product landing page. Made a few shapes in css. Read a lot today! I learned a lot about css, then spent hours on a botom margin.
+
+**Thoughts:** Should maybe have spent some time on revieww. I may after this product landing page. Part of my trouble is deciding what to do for "faux" products or websites. I thinkI need to stick with what I know. Also, put in some time on MTurk. Need to try and balance things. I can go fast but, there's no deadline. Some days, it's okay to only code an hour.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv)
+
+
+<!-- ### Day 15: February 1, 2019 
+
+**Today's Progress**: Worked on ...
+
+**Thoughts:** Should...
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) -->
+
+
+
+
+<!-- ### Day 13: January 29, 2019 
+
+**Today's Progress**: Worked on my product landing page. Made a few shapes in css. Read a lot today! I learned a lot about css, then spent hours on a botom margin.
+
+**Thoughts:** Should maybe have spent some time on revieww. I may after this product landing page. Part of my trouble is deciding what to do for "faux" products or websites. I thinkI need to stick with what I know. Also, put in some time on MTurk. Need to try and balance things. I can go fast but, there's no deadline. Some days, it's okay to only code an hour.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) -->
+
+ 
 
  
 
