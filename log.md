@@ -142,11 +142,11 @@ May be more progress later.
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv)
 
 
-<!-- ### Day 15: February 1, 2019 
+ ### Day 14,15: January 30,31, 2019 
 
-**Today's Progress**: Worked on ...
+**Today's Progress**: I got a mentor/code partner who knows html, css and js. Spent lots of time setting up VSCode, and then learning how to use it properly. I was trying to avoid learning an editor because, as I suspected, it ate up a day and I only barely know it's functions. I have gotten to the point that I can produce code on it and understand most of what I'm seeing. Got that set then started coding my product landing page. I got some content loaded into it. I figured out my flex bar, even though I didn't really need Flex in that situation, it was still a good exercise.
 
-**Thoughts:** Should...
+**Thoughts:** Getting a mentor I think will help. I need to work at my job a bit more. Starting to go broke learning to code. I need to figure out a balance. I just think that if I hadn't immersed myself for 2 weeks, I wouldn't have figured out nearly anything. So, I did sacrifice. But, now to balance the 2. Also, need to stop trying to post right before midnight on Twitter, and update this log. I end up missing one or the other or get confused what day I last posted, since it's so close to midnight. Tomorrow, I'm going to set aside some time to learn how to use git and git hub properly.
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
@@ -157,6 +157,10 @@ May be more progress later.
 **Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) -->
+
+**Link to work:** [Product Landing Page - WIP](https://codepen.io/Jerami/pen/JxKvJK) -->
+
+
 
 
 
@@ -177,6 +181,22 @@ May be more progress later.
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) -->
 
+
+<!-- ### Day 1: February 1, 2019 
+
+**Today's Progress**: Worked on ...
+
+**Thoughts:** Should...
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) -->
  
 
  
