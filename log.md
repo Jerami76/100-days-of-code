@@ -165,11 +165,11 @@ May be more progress later.
 
 
 
-<!-- ### Day 13: January 29, 2019 
+### Day 16: February 1, 2019 
 
-**Today's Progress**: Worked on my product landing page. Made a few shapes in css. Read a lot today! I learned a lot about css, then spent hours on a botom margin.
+**Today's Progress**: Spent the morning trying to learn Git from the command line. I was using it but, it was hard to see what was going on. Thanks to my mentor for pointing me in the right direction( GitLens for VSCode, for a start). Worked on my Product Landing page project. Probably could have finished it if I were more on the ball. Need to get Git figured out once and for all tonight!
 
-**Thoughts:** Should maybe have spent some time on revieww. I may after this product landing page. Part of my trouble is deciding what to do for "faux" products or websites. I thinkI need to stick with what I know. Also, put in some time on MTurk. Need to try and balance things. I can go fast but, there's no deadline. Some days, it's okay to only code an hour.
+**Thoughts:** Having a Mentor is really helping. It's good to have someone to show me the right direction for my energy. I need to be more productive when coding. I'm trying to get the tools set up to do that.
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
@@ -180,6 +180,8 @@ May be more progress later.
 **Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) -->
+
+**Link to work:** [Product Landing Page - WIP](https://codepen.io/Jerami/pen/JxKvJK) -->
 
 
 <!-- ### Day 1: February 1, 2019 
