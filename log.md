@@ -184,7 +184,26 @@ May be more progress later.
 **Link to work:** [Product Landing Page - WIP](https://codepen.io/Jerami/pen/JxKvJK) -->
 
 
-<!-- ### Day 1: February 1, 2019 
+< ### Day 17: February 2,3 2019 
+
+**Today's Progress**: Worked on setting up accounts and a bit on my product Landing page. I've been organizing my code as well. Not much new but, I cleaned up old code.
+
+**Thoughts:** I should get right on coding. I did take it a bit lighter on coding but, more than a few hours behind the pc both days. More tomorrow.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) -->
+
+
+
+
+<!-- ### Day 17: February 12, 2019 
 
 **Today's Progress**: Worked on ...
 
@@ -199,6 +218,26 @@ May be more progress later.
 **Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) -->
+
+
+
+<!-- ### Day 17: February 12, 2019 
+
+**Today's Progress**: Worked on ...
+
+**Thoughts:** Should...
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) -->
+ 
+
  
 
  
