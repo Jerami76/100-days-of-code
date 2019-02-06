@@ -156,9 +156,9 @@ May be more progress later.
 
 **Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
 
-**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) -->
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
-**Link to work:** [Product Landing Page - WIP](https://codepen.io/Jerami/pen/JxKvJK) -->
+**Link to work:** [Product Landing Page - WIP](https://codepen.io/Jerami/pen/JxKvJK) 
 
 
 
@@ -179,9 +179,9 @@ May be more progress later.
 
 **Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
 
-**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) -->
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
-**Link to work:** [Product Landing Page - WIP](https://codepen.io/Jerami/pen/JxKvJK) -->
+**Link to work:** [Product Landing Page - WIP](https://codepen.io/Jerami/pen/JxKvJK) 
 
 
 ### Day 17,18: February 2,3 2019 
@@ -199,6 +199,8 @@ May be more progress later.
 **Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv)
+
+**Link to work:** [Product Landing Page - WIP](https://codepen.io/Jerami/pen/JxKvJK) 
 
 
 
@@ -218,13 +220,15 @@ May be more progress later.
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
+**Link to work:** [Product Landing Page - WIP](https://codepen.io/Jerami/pen/JxKvJK) 
 
 
-<!-- ### Day 17: February 12, 2019 
 
-**Today's Progress**: Worked on ...
+ ### Day 20: February 5, 2019 
 
-**Thoughts:** Should...
+**Today's Progress**: Worked on rodoing my product page continuation. Decided to scrap again. Want to write it mobile first. Finally figured out what that means. Spent 2 hours working from Git Bash. Trying to set up a correct repo for my project, then creat a branch to style it. It was hard but, I get it now. Checked in with my mentor and talked about how art can be part of my pages. Pretty neat idea. Need to get a graphics tablet. (Maybe I can use my touchscreen?)
+
+**Thoughts:** I'm trying to work mobile first, as that's the new environment. I didn't really understand what that fully meant until today. So, I've coded the markup only. Now I should do the CSS based on mobile configuration as the main css and add my nedia query in reverse to what I had, by writing my media query for larger screens and then everything else will be "mobile first".
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
@@ -234,7 +238,29 @@ May be more progress later.
 
 **Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
 
-**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) -->
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) 
+ 
+ 
+ 
+ <!--### Day 20: February 5, 2019 
+
+**Today's Progress**: Worked on r
+
+**Thoughts:** I...
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) -->
  
 
  
