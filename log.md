@@ -259,15 +259,15 @@ May be more progress later.
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
-**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) -->
+**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) 
  
  
  
-  <!--### Day 22: February 7, 2019 
+  ### Day 22: February 7, 2019 
 
 **Today's Progress**: Worked on nothing but watched 1 ruby video. I confirmed my suspicion that I wasn't ready yet. Soon but, I've only made 2.5pages so far. No code yet today but, my brain really lives on PST. So, I get up sometimes at 11 at night, EST, where I live. So, doing my hour isn't always feasible withing the first 45 minutes of waking but, I work overnight. Not every night but most. So it makes posting difficult before the strike of midnight.
 
-**Thoughts:** I need to figure out better times to do things like sleep.
+**Thoughts:** I need to figure out better times to do things like sleep and post. I'm working on it. Not missed more than a day with posting. I've still coded all days, even yesterday for a bit.
 
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
@@ -280,7 +280,7 @@ May be more progress later.
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
-**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) -->
+**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2)
 
 
  <!--### Day 20: February 5, 2019 
