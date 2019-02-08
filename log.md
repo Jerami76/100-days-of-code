@@ -226,7 +226,7 @@ May be more progress later.
 
  ### Day 20: February 5, 2019 
 
-**Today's Progress**: Worked on rodoing my product page continuation. Decided to scrap again. Want to write it mobile first. Finally figured out what that means. Spent 2 hours working from Git Bash. Trying to set up a correct repo for my project, then creat a branch to style it. It was hard but, I get it now. Checked in with my mentor and talked about how art can be part of my pages. Pretty neat idea. Need to get a graphics tablet. (Maybe I can use my touchscreen?)
+**Today's Progress**: Worked on redoing my product page. Decided to scrap again. Want to write it mobile first. Finally figured out what that means. Spent 2 hours working from Git Bash. Trying to set up a correct repo for my project, then creat a branch to style it. It was hard but, I get it now. Checked in with my mentor and talked about how art can be part of my pages. Pretty neat idea. Need to get a graphics tablet. (Maybe I can use my touchscreen?)
 
 **Thoughts:** I'm trying to work mobile first, as that's the new environment. I didn't really understand what that fully meant until today. So, I've coded the markup only. Now I should do the CSS based on mobile configuration as the main css and add my nedia query in reverse to what I had, by writing my media query for larger screens and then everything else will be "mobile first".
 
@@ -244,6 +244,45 @@ May be more progress later.
  
  
  
+ ### Day 21: February 6, 2019 
+
+**Today's Progress**: Worked on investigating SASS/SCSS. Installed and read about Live SASS Compile for VS Code. Had trouble because I'm inexperienced. After 5 hours of reading and trying to get it to work, I realized I needed Ruby. I had no idea Ruby wasn't installed. I had very little idea what Ruby was.Apparently it's a framework that writes(compiles) your CSS from really complex code to a more readable and compatible, nested version.
+
+**Thoughts:** I think I bit off more than I could chew. I had every intention of finishing my product page today but, I got derailed by Ruby on Rails. I'm not nearly comfortable enough with writing media queries to trust them to an extension. Not that I can do better but I need to try and work it out myself.
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) -->
+ 
+ 
+ 
+  <!--### Day 22: February 7, 2019 
+
+**Today's Progress**: Worked on nothing but watched 1 ruby video. I confirmed my suspicion that I wasn't ready yet. Soon but, I've only made 2.5pages so far. No code yet today but, my brain really lives on PST. So, I get up sometimes at 11 at night, EST, where I live. So, doing my hour isn't always feasible withing the first 45 minutes of waking but, I work overnight. Not every night but most. So it makes posting difficult before the strike of midnight.
+
+**Thoughts:** I need to figure out better times to do things like sleep.
+
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) -->
+
+
  <!--### Day 20: February 5, 2019 
 
 **Today's Progress**: Worked on r
@@ -261,7 +300,6 @@ May be more progress later.
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
 **Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) -->
- 
 
  
 
