@@ -305,11 +305,11 @@ Day 23: February 8, 2019
  
  
  
- <!--### Day 20: February 5, 2019 
+Day 24: February 14, 2019 
 
-**Today's Progress**: Worked on r
+**Today's Progress**: Got back on track after connectivity issues. Added box-sizing and Normalize.css to my product landing page. Committed and pushed. Worked on product page, to be completed ASAP.
 
-**Thoughts:** I...
+**Thoughts:** I think that normalized and box-sizing should be defalt browser settings. I think browser "styling" should be an option.
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
@@ -321,7 +321,8 @@ Day 23: February 8, 2019
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
-**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) -->
+**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) 
+
 
  
 
