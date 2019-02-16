@@ -284,7 +284,7 @@ May be more progress later.
 
 
 
-Day 23: February 8, 2019 
+### Day 23: February 8, 2019 
 
 **Today's Progress**: Worked on feeling better from my cold. Worked on some CSS before midnight. Still going.
 
@@ -305,11 +305,32 @@ Day 23: February 8, 2019
  
  
  
-Day 24: February 14, 2019 
+### Day 24: February 14, 2019 
 
 **Today's Progress**: Got back on track after connectivity issues. Added box-sizing and Normalize.css to my product landing page. Committed and pushed. Worked on product page, to be completed ASAP.
 
 **Thoughts:** I think that normalized and box-sizing should be defalt browser settings. I think browser "styling" should be an option.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) 
+
+
+
+### Day 25: February 15, 2019 
+
+**Today's Progress**: Spent 4+ hours on FlexZombies 1+ hours on product page. Tranferring in old content from false start. Realized I was only seconds away from completing it the first time. Learned more the second time.
+
+
+**Thoughts:** Was able to Tweet before midnight but, log post is late. Need to work on being earlier with everything. Still working on work/learning balance.
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
