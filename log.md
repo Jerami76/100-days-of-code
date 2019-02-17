@@ -345,6 +345,24 @@ May be more progress later.
 **Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) 
 
 
+### Day 26,27: February 16,17, 2019 
+
+**Today's Progress**: Spent 2 solid hours on my product page and made real progress! Fixed navbar and header. Added Overview. Started product box but, that's going to be changed, I think.
+**Thoughts:** Missed another day of posting due to an insane sleep schedule but, trying to get better. That said, used a pom timer to put in 2 solid hours and could go for more. I think the 25min increments helps.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) 
+
+
  
 
 
