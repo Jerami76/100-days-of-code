@@ -362,6 +362,24 @@ May be more progress later.
 
 **Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) 
 
+### Day 28,29: February 18,19, 2019 
+
+**Today's Progress**: Spent 2 solid hours on my product page and almost finished mobile! Added product boxes, and content. Need to align text(broke for some reason, I think I changed an id. No worries. I'll finish it in the next few hours but, missed yesterdays post and today is already late. Want to at least post so I don't go 2 dyas without posting or tweeting.
+**Thoughts:** AGAIN!!!Missed another day of posting due to an insane sleep schedule but, trying to get better. That said, used a pom timer to put in 2 solid hours and could go for more. I think the 25min increments helps same as last post. Need to figure out why I'm not able to space my product boxes. I think it's because I have a body height set in grid. I can fix that. Also, answered my first code question on Twitter yesterday. That made me feel good.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) 
+
+
 
  
 
