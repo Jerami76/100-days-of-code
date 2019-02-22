@@ -386,7 +386,27 @@ May be more progress later.
 
 **Today's Progress**: 4 hours of coding got me to where I really was proud of where I was. Fixed product boxes, margins, layout in general. GOt notes for changes. Tried to publish on gh pages, had trouble linking css.
 
-**Thoughts:** Posting an hour late, even though I had finished coding hours a go. Not to slow down on git. There's something that's not clicking. Also, FCC is not always "Best Practice"
+**Thoughts:** Posting an hour late, even though I had finished coding hours ago. Now to slow down on git. There's something that's not clicking. Also, FCC is not always "Best Practice"
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) 
+
+
+### Day 31: February 21, 2019 
+
+**Today's Progress**: 1 hour of code and 3 hours of trying to fix an error I had made on Git(hub). But, I've figured the things out and am at second draft of Product Landing Page. FIgured out why I was having trouble with gh-pages. Should be no more issues.
+
+**Thoughts:** Posting an 5 hours late, even though I had finished coding 3 hours ago. Finally got gh-pages which made me feel ok. Spent 12 hours Turking so it was a very long day. I should be sleeping and almost awake by now but, instead I've been up for 2 days. Need to figure out a better schedule.
+
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
 **Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
