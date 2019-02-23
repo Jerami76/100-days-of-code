@@ -420,6 +420,25 @@ May be more progress later.
 **Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) 
 
 
+### Day 32: February 22, 2019 
+
+**Today's Progress**: Pretty good day but, you can always learn more! Added a couple of media queries to my Product Landing Page. Could add one more but, could also be okay with it, if my life depended on it. In a perfect world, I'd add one more @media for very large screens(increase font sizes) and wiggle my padding a bitand, in a dream world, resize my images. But, that may be too much work for a project.
+
+**Thoughts:** Finally pushed, updated log and tweeted before midnight! Didn't get much work($) done today but, that's not what this log is about. Still need to find a work/learning balance but, I'm addicted to coding!
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) 
+
+
 
  
 
