@@ -422,7 +422,7 @@ May be more progress later.
 
 ### Day 32: February 22, 2019 
 
-**Today's Progress**: Pretty good day but, you can always learn more! Added a couple of media queries to my Product Landing Page. Could add one more but, could also be okay with it, if my life depended on it. In a perfect world, I'd add one more @media for very large screens(increase font sizes) and wiggle my padding a bitand, in a dream world, resize my images. But, that may be too much work for a project.
+**Today's Progress**: Pretty good day but, you can always learn more! Added a couple of media queries to my Product Landing Page. Could add one more but, could also be okay with it, if my life depended on it. In a perfect world, I'd add one more @media for very large screens(increase font sizes) and wiggle my padding a bit and, in a dream world, resize my images. But, that may be too much work for a project.
 
 **Thoughts:** Finally pushed, updated log and tweeted before midnight! Didn't get much work($) done today but, that's not what this log is about. Still need to find a work/learning balance but, I'm addicted to coding!
 
@@ -439,7 +439,23 @@ May be more progress later.
 **Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) 
 
 
+### Day 33: February 22, 2019 
 
+**Today's Progress**: Played around with npm and node.js for some background. Spent a lot of time in the command line today, which is good. Submitted a code.pen for my Product Page Project that passes FCC's tests but, isn't as nice as the page that I've have linked at the bottom of this post. Moving on to my next project. A light code day but, still going. Just wanted to post before midnight.
+
+**Thoughts:** Sleep and work are still an issue. Coding isn't as much of one. Feeling blah today.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 0.9.0 WIP](https://github.com/Jerami76/fcc-product-landing2) 
  
 
 
