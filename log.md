@@ -439,7 +439,7 @@ May be more progress later.
 **Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) 
 
 
-### Day 33: February 22, 2019 
+### Day 33: February 23, 2019 
 
 **Today's Progress**: Played around with npm and node.js for some background. Spent a lot of time in the command line today, which is good. Submitted a code.pen for my Product Page Project that passes FCC's tests but, isn't as nice as the page that I've have linked at the bottom of this post. Moving on to my next project. A light code day but, still going. Just wanted to post before midnight.
 
@@ -457,7 +457,24 @@ May be more progress later.
 
 **Link to work:** [Product Landing Page2 - (Rev 0.9.0 WIP](https://github.com/Jerami76/fcc-product-landing2) 
  
+### Day 34: February 24, 2019 
 
+**Today's Progress**: Learning javascript today. That's about it. 4 hours oc code challenges.
+
+**Thoughts:** **Sleep and work are still an issue.** Stressed a bi t today which interfered more than I would have liked but, I realize it and can work on it. Starting to understand js, a bit but need much more practice. I wan to go back to HTML and CSS and do my Technical Doc Page, or do another Product Landing with better ideas but, I know I'll need js and it's okay to get outside my comfort zone. That said, I could continue with HTML and CSS and spend a lifetime there. But, at least a solid understanding of js, regardless of what I use it for, will be important for a career. Not as much as a hobbyist.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final](https://github.com/Jerami76/fcc-product-landing2) 
+ 
 
  <!--### Day 20: February 5, 2019 
 
