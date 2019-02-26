@@ -459,9 +459,28 @@ May be more progress later.
  
 ### Day 34: February 24, 2019 
 
-**Today's Progress**: Learning javascript today. That's about it. 4 hours oc code challenges.
+**Today's Progress**: Learning javascript today. That's about it. 4 hours of code challenges.
 
-**Thoughts:** **Sleep and work are still an issue.** Stressed a bi t today which interfered more than I would have liked but, I realize it and can work on it. Starting to understand js, a bit but need much more practice. I wan to go back to HTML and CSS and do my Technical Doc Page, or do another Product Landing with better ideas but, I know I'll need js and it's okay to get outside my comfort zone. That said, I could continue with HTML and CSS and spend a lifetime there. But, at least a solid understanding of js, regardless of what I use it for, will be important for a career. Not as much as a hobbyist.
+**Thoughts:** **Sleep and work are still an issue.** Stressed a bit today which interfered more than I would have liked but, I realize it and can work on it. Starting to understand js, a bit but need much more practice. I wan to go back to HTML and CSS and do my Technical Doc Page, or do another Product Landing with better ideas but, I know I'll need js and it's okay to get outside my comfort zone. That said, I could continue with HTML and CSS and spend a lifetime there. But, at least a solid understanding of js, regardless of what I use it for, will be important for a career. Not as much as a hobbyist.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final](https://github.com/Jerami76/fcc-product-landing2)
+
+
+### Day 35: February 25, 2019 
+
+**Today's Progress**: More Learning javascript today. That's about it. 3.5 hours of code challenges. Watched the intro video to 30DaysofJavascript. Coded JS for an hour just by following along. Learned variables and functions on FCC. Some of it is sticking. Someof it will need a good bit of time.
+
+**Thoughts:** **Sleep and work are still an issue.** No real stress today, code related. Would have liked to output more. That's why I tried to start 30Daysof Javascript, to do along with my FCC projects but, realized I was way in over my head. I reall need to finish the basics on FCC then use 30Days to learn to apply it in a functional way. I realized I wouldn't have been learning, just copying, which has it's own merit but, not what I wanted. Also realized that that I have a few options in front of me. I could finish my FCC projects for Responsive WebDev slowly, for exactly an hour a day(2poms, 2breaks) and then learn and try to code js for whatever time further that I can dedicate. Writing  it out, this seems like a good idea. I wish I could focus just on javascript for the moment but, I don't want to forget the things I've learned in HTML or CSS. Also, need to make sure to dedicate at least 4 poms, preferably 6, on mTurk. Lots to think about. Taking a break to get my head around it.
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
