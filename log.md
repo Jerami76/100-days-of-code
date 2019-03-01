@@ -511,6 +511,25 @@ May be more progress later.
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
 **Link to work:** [Product Landing Page2 - (Rev 1.0 Final](https://github.com/Jerami76/fcc-product-landing2) 
+
+
+### Day 38: February 28, 2019 
+
+**Today's Progress**: Coded javascript for a couple of hours. Made a javascript Drum Kit. First functional use of javascript.
+
+**Thoughts:** **Sleep and work are still an issue. But, I'm not going to stress about sleep anymore.** I have given up on trying to be awake during the day. It's not working out and making everything else more difficult. I may just start sleeping whenever and not try and stick to a schedule. Javascript is hard and I'm trying really hard to get it. I so badly wanted to go back to css but, I NEED to know javascript. Once I have javascript starting to click, I'll then spend some time working on my basic 3.(HTML, CSS, JS)
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final](https://github.com/Jerami76/fcc-product-landing2) 
  
  
  
