@@ -532,6 +532,25 @@ May be more progress later.
 **Link to work:** [Product Landing Page2 - (Rev 1.0 Final](https://github.com/Jerami76/fcc-product-landing2) 
  
  
+ ### Day 39: March 1, 2019 
+
+**Today's Progress**: Learned javascript for 3 hours. No real output but, a bunch of code.
+
+**Thoughts:** **Sleep and work are less of an issue. Didn't stress about sleep today.** Javascript is starting to make sense. After functional code yesterday, I went back to the basics. Things seemed to go a lot better and I didn't need to read the instructions to the FCC challenges. That's when css and html started to click as well. So, we'll see where this goes. Going to keep going an post progress on twitter a bit late. Don't want to leave the zone. Once I have javascript really clicking, I'll then spend some time working on my basic 3.(HTML, CSS, JS) Should start Javascript30 to do along with 100DaysofCode. I will in a day or 2. Then I can have some real progress. I sometimes feel like I'm slow or a bad code partner but, I think for under 40 days, I'm doing alright. I know my css skills wer pretty good before and I'll touch them up now that I'm starting to get the hang of interactivity to go along with responsiveness.  
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final](https://github.com/Jerami76/fcc-product-landing2) 
+ 
+ 
  
  <!--### Day 20: February 5, 2019 
 
