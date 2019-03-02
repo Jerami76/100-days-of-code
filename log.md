@@ -455,7 +455,7 @@ May be more progress later.
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
-**Link to work:** [Product Landing Page2 - (Rev 0.9.0 WIP](https://github.com/Jerami76/fcc-product-landing2) 
+**Link to work:** [Product Landing Page2 - (Rev 0.9.0 WIP)](https://github.com/Jerami76/fcc-product-landing2) 
  
 ### Day 34: February 24, 2019 
 
@@ -473,7 +473,7 @@ May be more progress later.
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
-**Link to work:** [Product Landing Page2 - (Rev 1.0 Final](https://github.com/Jerami76/fcc-product-landing2)
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2)
 
 
 ### Day 35: February 25, 2019 
@@ -492,7 +492,7 @@ May be more progress later.
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
-**Link to work:** [Product Landing Page2 - (Rev 1.0 Final](https://github.com/Jerami76/fcc-product-landing2) 
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
  
 
 ### Day 36, 37: February 26, 27, 2019 
@@ -510,7 +510,7 @@ May be more progress later.
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
-**Link to work:** [Product Landing Page2 - (Rev 1.0 Final](https://github.com/Jerami76/fcc-product-landing2) 
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
 
 
 ### Day 38: February 28, 2019 
@@ -529,7 +529,7 @@ May be more progress later.
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
-**Link to work:** [Product Landing Page2 - (Rev 1.0 Final](https://github.com/Jerami76/fcc-product-landing2) 
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
  
  
  ### Day 39: March 1, 2019 
@@ -548,8 +548,25 @@ May be more progress later.
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
-**Link to work:** [Product Landing Page2 - (Rev 1.0 Final](https://github.com/Jerami76/fcc-product-landing2) 
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
  
+ 
+ ### Day 40: March 2, 2019 
+
+**Today's Progress**: Javascript all day! Tons of progress on a new project- Todo List. It's made following WatchAndCode with Gordon Zhu. Added variable, and arrays, and functions into methods. I interacted with the functions via the console. I'll add a link to the code once I push it to a remote.
+**Thoughts:** **Sleep and work are less of an issue. Didn't stress about sleep today.** Javascript is really starting to click. After tons of real "original" code today, I was happy when I was able to pause the video and code ahead, rather than behind. Had a bit of a giggle and an aha moment, when I got something to work before being shown. Can't wait spend some time working on my basic 3.(HTML, CSS, JS) Should soon start Javascript30 to do along with 100DaysofCode after finishing this course. Still another day or 2. Overall, a great day. I'm taking a bit of a break and will do more later.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
  
  
  <!--### Day 20: February 5, 2019 
