@@ -572,7 +572,7 @@ May be more progress later.
 
 ### Day 41: March 3, 2019 
 
-**Today's Progress**: More avascript all day! A bunch more progress on my Todo List. Changed my array into an array of objects. Changed my methods to interact with object property values. Learned for loops. Finished v4.0 of the Todo List.(44%) Still going at it but, it' midnight. So, updating. I'll still add a link to the code once I push it to a remote.
+**Today's Progress**: More javascript all day! A bunch more progress on my Todo List. Changed my array into an array of objects. Changed my methods to interact with object property values. Learned for loops. Finished v4.0 of the Todo List.(44%) Still going at it but, it' midnight. So, updating. I'll still add a link to the code once I push it to a remote.
 **Thoughts:** **Sleep and work are still less of an issue. Didn't stress about sleep today.** Javascript is Getting fun! Can't wait to know a lot so I can make cool stuff! Still sticking to it. Got to hand it to myself for not giving up. Still need to add a better amount of paid work but, sacrifices.
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
