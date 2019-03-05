@@ -588,6 +588,27 @@ May be more progress later.
 **Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
  
  
+ 
+ ### Day 42: March 3, 2019 
+
+**Today's Progress**: Could literally only code for 1 hour. Learned if/else and worked on for loops. Added both to Todo list app.
+**Thoughts:** **Training for new job gave less time today** Did no real paid work today due to training for a new job. Could only code for an hour but, will code more in the next day. Fun to see that even though I hadn't been taught if/else, I was close when I guessed. Starting to think like a developer.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
+
+**Link to work:** [Todo List - (v5.0)](https://github.com/Jerami76/ToDo-List) 
+ 
+ 
  <!--### Day 20: February 5, 2019 
 
 **Today's Progress**: Worked on r30
