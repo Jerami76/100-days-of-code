@@ -591,8 +591,8 @@ May be more progress later.
  
  ### Day 42: March 3, 2019 
 
-**Today's Progress**: Could literally only code for 1 hour. Learned if/else and worked on for loops. Added both to Todo list app.
-**Thoughts:** **Training for new job gave less time today** Did no real paid work today due to training for a new job. Could only code for an hour but, will code more in the next day. Fun to see that even though I hadn't been taught if/else, I was close when I guessed. Starting to think like a developer.
+**Today's Progress**: Learned for 3 hours, coded for 1. Practiced for loops on my Todo List. Added allToggle: to change all .completed to false, if all were true, otherwise, change all to true. Updated to v 6.0 of TodoList.
+**Thoughts:** **Training for new job gave less time today[cont.]** Did no real paid work today due to training for a new job. Could only code for an hour but, will hopefully code more in the next day. Still thinkning like a developer. Sill starting to get enough confidence to try and code ahead, even if it's wrong. It usually is.
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
