@@ -663,9 +663,9 @@ May be more progress later.
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
-**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2, https://github.io/Jerami76/fcc-product-landing2) 
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
 
-**Link to work:** [Todo List - (v8.0)](https://github.com/Jerami76/ToDo-List, https://jerami76.github.io/ToDo-List/) 
+**Link to work:** [Todo List - (v8.0)](https://jerami76.github.io/ToDo-List/) 
 
 
 
