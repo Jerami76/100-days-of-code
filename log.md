@@ -630,7 +630,7 @@ May be more progress later.
  
   ### Day 44: March 6, 2019 
 
-**Today's Progress**: [content] 
+**Today's Progress**:Exactly 1 hour of #javascript working on Data types and comparisons, and primitives. Short code day due to the test that I'm in the midst of. 1.5 out of 3 sections completed. 
 **Thoughts:** **Training for new job gave less time today[cont.]** [new thoughts] Did no real paid work today due to training for a new job. 
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
@@ -646,6 +646,30 @@ May be more progress later.
 **Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
 
 **Link to work:** [Todo List - (v5.0)](https://github.com/Jerami76/ToDo-List) 
+
+
+ ### Day 45: March 12, 2019 
+
+**Today's Progress**: First full day back. Lots of javascript. Learned about the DOM and interacting with it through javascript. Added HTML to Todo List app to add UI. Added functionality to those buttons by grabbing values from DOM and using them in js. Learned to Debug. v8 Completed and tested. Pushed to gh-pages.
+**Thoughts:** **Failed the test. I'm past it. Moving on** [new thoughts] It wasgreat to be coding again. Had a very successful day and plan to keep giong but don't want to post under pressure.  
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2, https://github.io/Jerami76/fcc-product-landing2) 
+
+**Link to work:** [Todo List - (v8.0)](https://github.com/Jerami76/ToDo-List, https://jerami76.github.io/ToDo-List/) 
+
+
+
+
  <!--### Day 20: February 5, 2019 
 
 **Today's Progress**: Worked on r30
