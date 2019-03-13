@@ -670,11 +670,10 @@ May be more progress later.
 
 
 
- <!--### Day 20: February 5, 2019 
+ ### Day 46: March 13, 2019 
 
-**Today's Progress**: Worked on r30
-
-**Thoughts:** I...
+**Today's Progress**: About 4 hours of code and learning javascript. Added view object to TodoList app to display in the DOM. Cleaned comments. Added method for appending li elements and changing textContent. May post more today. 
+**Thoughts:** One thing that's interesting to notice when moving from HTML to JavaScript, when you first code HTML you treat your Block Level elements as physical objects. Once you move to JavaScript, you realize that the HTML is just a visual representation of a concept. HTML elements are no more objects than a painting of an apple is an apple. Once you create a JavaScript object, it can be as Faithfully or unfaithfully represented in the HTML as any Apple in a painting.
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
 
@@ -686,8 +685,9 @@ May be more progress later.
 
 **Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
 
-**Link to work:** [Product Landing Page2 - WIP](https://github.com/Jerami76/fcc-product-landing2) -->
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
 
+**Link to work:** [Todo List - (v9.0)](https://jerami76.github.io/ToDo-List/) 
  
 
  
