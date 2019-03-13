@@ -554,6 +554,7 @@ May be more progress later.
  ### Day 40: March 2, 2019 
 
 **Today's Progress**: Javascript all day! Tons of progress on a new project- Todo List. It's made following WatchAndCode with Gordon Zhu. Added variable, and arrays, and functions into methods. I interacted with the functions via the console. I'll add a link to the code once I push it to a remote.
+
 **Thoughts:** **Sleep and work are less of an issue. Didn't stress about sleep today.** Javascript is really starting to click. After tons of real "original" code today, I was happy when I was able to pause the video and code ahead, rather than behind. Had a bit of a giggle and an aha moment, when I got something to work before being shown. Can't wait spend some time working on my basic 3.(HTML, CSS, JS) Should soon start Javascript30 to do along with 100DaysofCode after finishing this course. Still another day or 2. Overall, a great day. I'm taking a bit of a break and will do more later.
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
@@ -573,6 +574,7 @@ May be more progress later.
 ### Day 41: March 3, 2019 
 
 **Today's Progress**: More javascript all day! A bunch more progress on my Todo List. Changed my array into an array of objects. Changed my methods to interact with object property values. Learned for loops. Finished v4.0 of the Todo List.(44%) Still going at it but, it' midnight. So, updating. I'll still add a link to the code once I push it to a remote.
+
 **Thoughts:** **Sleep and work are still less of an issue. Didn't stress about sleep today.** Javascript is Getting fun! Can't wait to know a lot so I can make cool stuff! Still sticking to it. Got to hand it to myself for not giving up. Still need to add a better amount of paid work but, sacrifices.
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
@@ -591,6 +593,7 @@ May be more progress later.
   ### Day 42: March 4, 2019 
 
 **Today's Progress**: Could literally only code for 1 hour. Learned if/else and worked on for loops. Added both to Todo list app. Pushed v5 of TodoList App.
+
 **Thoughts:** **Training for new job gave less time today** Did no real paid work today due to training for a new job. Could only code for an hour but, will code more in the next day. Fun to see that even though I hadn't been taught if/else, I was close when I guessed. Starting to think like a developer.
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
@@ -611,6 +614,7 @@ May be more progress later.
  ### Day 43: March 5, 2019 
 
 **Today's Progress**: Learned for 3 hours, coded for 1. Practiced for loops on my Todo List. Added allToggle: to change all .completed to false, if all were true, otherwise, change all to true. Updated to v 6.0 of TodoList.
+
 **Thoughts:** **Training for new job gave less time today[cont.]** Did no real paid work today due to training for a new job. Could only code for an hour but, will hopefully code more in the next day. Still thinkning like a developer. Sill starting to get enough confidence to try and code ahead, even if it's wrong. It usually is.
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
@@ -631,6 +635,7 @@ May be more progress later.
   ### Day 44: March 6, 2019 
 
 **Today's Progress**:Exactly 1 hour of #javascript working on Data types and comparisons, and primitives. Short code day due to the test that I'm in the midst of. 1.5 out of 3 sections completed. 
+
 **Thoughts:** **Training for new job gave less time today[cont.]** [new thoughts] Did no real paid work today due to training for a new job. 
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
@@ -651,6 +656,7 @@ May be more progress later.
  ### Day 45: March 12, 2019 
 
 **Today's Progress**: First full day back. Lots of javascript. Learned about the DOM and interacting with it through javascript. Added HTML to Todo List app to add UI. Added functionality to those buttons by grabbing values from DOM and using them in js. Learned to Debug. v8 Completed and tested. Pushed to gh-pages.
+
 **Thoughts:** **Failed the test. I'm past it. Moving on** [new thoughts] It wasgreat to be coding again. Had a very successful day and plan to keep giong but don't want to post under pressure.  
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
@@ -673,6 +679,7 @@ May be more progress later.
  ### Day 46: March 13, 2019 
 
 **Today's Progress**: About 4 hours of code and learning javascript. Added view object to TodoList app to display in the DOM. Cleaned comments. Added method for appending li elements and changing textContent. May post more today. 
+
 **Thoughts:** One thing that's interesting to notice when moving from HTML to JavaScript, when you first code HTML you treat your Block Level elements as physical objects. Once you move to JavaScript, you realize that the HTML is just a visual representation of a concept. HTML elements are no more objects than a painting of an apple is an apple. Once you create a JavaScript object, it can be as Faithfully or unfaithfully represented in the HTML as any Apple in a painting.
 
 **Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
