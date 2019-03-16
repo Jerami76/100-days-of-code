@@ -696,7 +696,46 @@ May be more progress later.
 
 **Link to work:** [Todo List - (v9.0)](https://jerami76.github.io/ToDo-List/) 
  
+ 
+ ### Day 47: March 14, 2019 
 
+**Today's Progress**: Forgot to update log but, TodoList v10 complete. Added individual delete buttons per li element and moved functionality. Learned Higher Order functions and callbacks and event delegation. 
+**Thoughts:** Forgot to post thoughts
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
+
+**Link to work:** [Todo List - (v9.0)](https://jerami76.github.io/ToDo-List/) 
+ 
+
+ 
+  ### Day 48: March 15, 2019 
+
+**Today's Progress**: Completed v11 of my TodoList app. Completed PracticalJS!! Learned forEach and .this theory.
+
+**Thoughts:** I should post more above but, it's after midnight and want to code more. It's cool to finish a thing. Now I'm going to do some quick css on it then, on to the next project.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
+
+**Link to work:** [Todo List - (v9.0)](https://jerami76.github.io/ToDo-List/) 
  
 
 
