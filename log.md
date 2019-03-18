@@ -780,9 +780,9 @@ May be more progress later.
 
 **Link to work:** [Todo List - (v9.0)](https://jerami76.github.io/ToDo-List/) 
 
-**Link to work:** [Eye v1 - Pure CSS)](https://codepen.io/Jerami/pen/GeGJGz)
+**Link to work:** [Eye v1 - (Pure CSS)](https://codepen.io/Jerami/pen/GeGJGz)
 
-**Link to work:** [Eye v2 - Pure CSS)](https://codepen.io/Jerami/pen/MxXJBQ)
+**Link to work:** [Eye v2 - (Pure CSS)](https://codepen.io/Jerami/pen/MxXJBQ)
 
 
 
