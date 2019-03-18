@@ -737,6 +737,52 @@ May be more progress later.
 
 **Link to work:** [Todo List - (v9.0)](https://jerami76.github.io/ToDo-List/) 
  
+ 
+ 
+  ### Day 49: March 16, 2019 
+
+**Today's Progress**: Light output day. Did a few Edabit and FCC challenges and started a new Udemy course on JavaScript.
+
+**Thoughts:** Felt great to finish a course yesterday and it's good to start a new one. Excited about my JavaScript studies. Need to work more. Tired of being broke. Will figure out how to work a few hours a day and not have it interfere with my studies.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
+
+**Link to work:** [Todo List - (v9.0)](https://jerami76.github.io/ToDo-List/) 
+
+
+
+ ### Day 50: March 17, 2019 
+
+**Today's Progress**: Spent Day 50 learning and working my way back to HTML/CSS. Coded an eye in pure css, linked below, which was a fun use of my skills. Learned a few things while doing it.
+**Thoughts:** I'm going to try and redouble my efforts in learning to code, while also making sure that I work enough to not be broke. I'll start on MTurk tomorrow, then Usertesting the next day.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
+
+**Link to work:** [Todo List - (v9.0)](https://jerami76.github.io/ToDo-List/) 
+
+**Link to work:** [Eye v1 - Pure CSS)](https://codepen.io/Jerami/pen/GeGJGz)
+
+**Link to work:** [Eye v2 - Pure CSS)](https://codepen.io/Jerami/pen/MxXJBQ)
 
 
 
