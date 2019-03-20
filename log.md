@@ -813,6 +813,32 @@ May be more progress later.
 
 
 
+### Day 52: March 18, 2019 
+
+**Today's Progress**: Added toggleCompleted button with functionality to ToDoList app. Reorganized HTML. Just need to add contact section and I can move to styling. Only had an hout or 2 to work on it.
+
+**Thoughts:** I worked for about an hour again. It's hard getting back into the swing of things. Will really try more. It was neat getting my button to work on my own, without following a tutorial, just going by my previous code.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
+
+**Link to work:** [Todo List - (v11.0)(WIP)](https://jerami76.github.io/ToDo-List/) 
+
+**Link to work:** [Eye v1 - (Pure CSS)](https://codepen.io/Jerami/pen/GeGJGz)
+
+**Link to work:** [Eye v2 - (Pure CSS)](https://codepen.io/Jerami/pen/MxXJBQ)
+
+
+
 
 
 
