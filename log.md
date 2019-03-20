@@ -815,7 +815,7 @@ May be more progress later.
 
 ### Day 52: March 18, 2019 
 
-**Today's Progress**: Added toggleCompleted button with functionality to ToDoList app. Reorganized HTML. Just need to add contact section and I can move to styling. Only had an hout or 2 to work on it.
+**Today's Progress**: Added toggleCompleted button with functionality to ToDoList app. Reorganized HTML. Just need to add contact section and I can move to styling. Only had an hour or 2 to work on it.
 
 **Thoughts:** I worked for about an hour again. It's hard getting back into the swing of things. Will really try more. It was neat getting my button to work on my own, without following a tutorial, just going by my previous code.
 
