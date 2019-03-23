@@ -813,7 +813,7 @@ May be more progress later.
 
 
 
-### Day 52: March 18, 2019 
+### Day 52: March 19, 2019 
 
 **Today's Progress**: Added toggleCompleted button with functionality to ToDoList app. Reorganized HTML. Just need to add contact section and I can move to styling. Only had an hour or 2 to work on it.
 
@@ -836,6 +836,32 @@ May be more progress later.
 **Link to work:** [Eye v1 - (Pure CSS)](https://codepen.io/Jerami/pen/GeGJGz)
 
 **Link to work:** [Eye v2 - (Pure CSS)](https://codepen.io/Jerami/pen/MxXJBQ)
+
+
+
+### Day 53, 54, 55: March 20, 21, 22 2019 
+
+**Today's Progress**: Didn't have a second to update my log and, rather than try to add multiple daily updates retroactively, I'm adding 3 days here. Day 53, I learned and switched from css to Sass(.scss) to use a more advanced scripting language. Added Sass stylesheet to my Todo List but, didn't get to do much styling. Day 54, I added a splash page to my Todo List app and got the HTML written. Days 54 and 55, I added Sass to the splash page, it uses variables to make it reusable. Working on animation next.
+
+**Thoughts:** Busy days. Felt a bit overwhelmed. Still trying to get more paid work done. Nice to go back and learn some Sass, to level up my css. Finishing with this today, hopefully. Then I'll move back to complete Responsive webdev cert on FCC.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
+
+**Link to work:** [Eye v1 - (Pure CSS)](https://codepen.io/Jerami/pen/GeGJGz)
+
+**Link to work:** [Eye v2 - (Pure CSS)](https://codepen.io/Jerami/pen/MxXJBQ)
+
+**Link to work:** [Todo List - (v12.0 w/splash page)(WIP)](https://jerami76.github.io/ToDo-List/) 
 
 
 
