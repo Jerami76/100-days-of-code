@@ -861,7 +861,60 @@ May be more progress later.
 
 **Link to work:** [Eye v2 - (Pure CSS)](https://codepen.io/Jerami/pen/MxXJBQ)
 
+**Link to work:** [Todo List - (v12.0 w/splash page)(WIP)](https://jerami76.github.io/ToDo-List/)
+
+
+### Day 56: March 24 2019 
+
+**Today's Progress**: Refactored a ton of Sass. Learned about functions but, didn't get a chance to use any. I did use a list though.(a list of values that is given a $label. It's like a map without the keys. So, it could be used whole or individual positions used but, values can't be called by key, like a map.
+
+**Thoughts:** No paid work. All code. Done splash page for now.
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
+
+**Link to work:** [Eye v1 - (Pure CSS)](https://codepen.io/Jerami/pen/GeGJGz)
+
+**Link to work:** [Eye v2 - (Pure CSS)](https://codepen.io/Jerami/pen/MxXJBQ)
+
 **Link to work:** [Todo List - (v12.0 w/splash page)(WIP)](https://jerami76.github.io/ToDo-List/) 
+
+
+
+### Day 57: March 25 2019 
+
+**Today's Progress**: Started a third product page. I feel I've learned a lot in the past 20Days and, since I'm finishing the Responsive Webdev Certification, I want to be happy with the output. I'll finish it tomorrow then move on to the Tech doc.
+
+**Thoughts:** No paid work. All code. 
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
+
+**Link to work:** [Eye v1 - (Pure CSS)](https://codepen.io/Jerami/pen/GeGJGz)
+
+**Link to work:** [Eye v2 - (Pure CSS)](https://codepen.io/Jerami/pen/MxXJBQ)
+
+**Link to work:** [Todo List - (v12.0 w/splash page)(WIP)](https://jerami76.github.io/ToDo-List/) 
+
+
 
 
 
