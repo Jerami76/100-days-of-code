@@ -916,6 +916,31 @@ May be more progress later.
 
 
 
+### Day 58: March 26 2019 
+
+**Today's Progress**: Worked on 3rd Product page. Going a bit slower so that I can document my process and repeat for a quick Sass/IDE/Tools tutorial. Scope has broadened a bit but, using Product Landing to demonstrate MVP w/easy, usable, releasable, not overly complicated design. Sometimes we over think it and also good to show the entire process.
+**Thoughts:** No paid work. All code. 
+
+**Link to work:** [Tribute Page Project 1.2 FINAL](https://codepen.io/Jerami/full/NoKGdN)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED-template! ](https://codepen.io/Jerami/pen/exYexe)
+
+**Link to work:** [Survey Form Project ALL TESTS PASSED- Layout complete! ](https://codepen.io/Jerami/pen/jdbKQx)
+
+**Link to work:** [Survey Form Project COMPLETE! ](https://codepen.io/Jerami/pen/YBwvOz)
+
+**Link to work:** [Grid Practice Template ](https://codepen.io/Jerami/pen/ZwWwVv) 
+
+**Link to work:** [Product Landing Page2 - (Rev 1.0 Final)](https://github.com/Jerami76/fcc-product-landing2) 
+
+**Link to work:** [Eye v1 - (Pure CSS)](https://codepen.io/Jerami/pen/GeGJGz)
+
+**Link to work:** [Eye v2 - (Pure CSS)](https://codepen.io/Jerami/pen/MxXJBQ)
+
+**Link to work:** [Todo List - (v12.0 w/splash page)(WIP)](https://jerami76.github.io/ToDo-List/) 
+
+
+
 
 
 
